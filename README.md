@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**emanuelavilla/emanuelavilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello people! This is me!
 
-Here are some ideas to get you started:
+Hi everyone!
+My name is Emanuela and this is who I am!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩‍🔬 Bioinformatics Scientist working in progress
+
+🔭 Currently working at the European Institute of Oncology in Milano
+
+💻 Working with single cell data (scRNA-Seq and scATAC-Seq), transcriptomics and genomics data, data visualization and data analysis in R
+
+
+
+
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villa-emanuela/)
+
