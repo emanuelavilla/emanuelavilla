@@ -32,4 +32,6 @@ My name is Emanuela and this is who I am!
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelavilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelavilla&layout=compact&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand"/>
