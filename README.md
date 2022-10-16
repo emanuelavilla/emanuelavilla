@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="https://www.canva.com/design/DAFPO_oAr2g/hDgUfOJQWOHNDpjqQOBa6g/edit?utm_content=DAFPO_oAr2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width="300"/>
 </div>
 
 <div id="badges", align="center">
@@ -13,9 +13,7 @@
 
   ---
   
-# Hello people! This is me! :woman_technologist:
-
-My name is Emanuela and this is who I am!
+# Hello people! This is me in pills: :woman_technologist:
 
 👩‍🔬 Bioinformatics Scientist working in progress
 
