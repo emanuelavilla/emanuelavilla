@@ -1,8 +1,8 @@
 ![Bion](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png)
 
-<p align="center">
-  <img src="[http://some_place.com/image.png](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png)" />
-</p>
+<div align="center">
+![Bion](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png)
+<div>
 
 <div id="badges", align="center">
   <a href="views counter">
