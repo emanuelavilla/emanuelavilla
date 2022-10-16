@@ -1,4 +1,4 @@
-<img src="" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
+<img src="https://github.com/emanuelavilla/emanuelavilla/blob/main/Bion.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 
 <div id="badges", align="center">
   <a href="views counter">
