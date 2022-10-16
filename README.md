@@ -6,8 +6,10 @@
   <a href="views counter">
     <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=blue" alt=""/>
 </div>
-  
- ![Jokes Card](https://readme-jokes.vercel.app/api)
+ 
+<div id="JokesCard", align="center">
+  ![Jokes Card](https://readme-jokes.vercel.app/api)
+  </div>
 
   ---
   
@@ -32,6 +34,6 @@ My name is Emanuela and this is who I am!
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuelavilla&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelavilla&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zluvsand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelavilla&layout=compact&theme=vision-friendly-dark"/>
