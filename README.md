@@ -4,7 +4,7 @@
 
 <div id="badges", align="center">
   <a href="views counter">
-    <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color="#5700fb"" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=blue" alt=""/>
 </div>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
