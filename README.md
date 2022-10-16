@@ -1,4 +1,6 @@
-![Bion](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png#center)
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+    ![Bion](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png#center)
+</div>
 
 <div id="badges", align="center">
   <a href="views counter">
