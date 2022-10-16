@@ -37,3 +37,4 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuelavilla&theme=dark&background=000000)](https://git.io/streak-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelavilla&layout=compact&theme=vision-friendly-dark"/>
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=emanuelavilla&show_icons=true&theme=vision-friendly-dark&layout=compact)
