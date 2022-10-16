@@ -1,8 +1,3 @@
-<div id="header" align="center">
-  <img src="https://www.canva.com/design/DAFPO_oAr2g/hDgUfOJQWOHNDpjqQOBa6g/edit?utm_content=DAFPO_oAr2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" width="300"/>
-</div>
-
-<img src="[https://www.canva.com/design/DAFPO_oAr2g/hDgUfOJQWOHNDpjqQOBa6g/edit?utm_content=DAFPO_oAr2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFPO_oAr2g/hDgUfOJQWOHNDpjqQOBa6g/edit?utm_content=DAFPO_oAr2g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" />
 
 <div id="badges", align="center">
   <a href="views counter">
@@ -35,3 +30,5 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuelavilla&theme=dark&background=000000)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zluvsand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelavilla&layout=compact&theme=vision-friendly-dark"/>
