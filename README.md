@@ -2,8 +2,6 @@
     <img src="https://github.com/emanuelavilla/emanuelavilla/blob/main/Bion.png">
 </div>
 
-
-
 <div id="badges", align="center">
   <a href="views counter">
     <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=blue" alt=""/>
