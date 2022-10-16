@@ -10,9 +10,8 @@
   
   ---
   
-# Hello people! This is me!
+# Hello people! This is me! :woman_technologist:
 
-Hi everyone!
 My name is Emanuela and this is who I am!
 
 👩‍🔬 Bioinformatics Scientist working in progress
