@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 
+<div id="badges">
+  <a href="views counter">
+    <img src="https://komarev.com/ghpvc/?username=emanuelavilla&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 # Hello people! This is me!
