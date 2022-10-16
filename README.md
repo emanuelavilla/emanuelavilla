@@ -1,3 +1,5 @@
+![Bion](https://user-images.githubusercontent.com/85672107/196054358-e2994dd1-87be-41da-a248-f50183739dd5.png)
+
 
 <div id="badges", align="center">
   <a href="views counter">
@@ -28,7 +30,5 @@
 
 ### :fire: My Stats :
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuelavilla&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zluvsand&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelavilla&layout=compact&theme=vision-friendly-dark"/>
