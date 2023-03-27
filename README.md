@@ -25,10 +25,3 @@
 
 ## You can find me here:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villa-emanuela/)
-
----
-
-### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emanuelavilla&theme=tokyonight)](https://git.io/streak-stats)
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelavilla&langs_count=5&theme=tokyonight)]()
