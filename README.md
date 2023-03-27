@@ -25,4 +25,4 @@
 
 ## You can find me here:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/villa-emanuela/)
-[![OrcID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)]([https://www.linkedin.com/in/villa-emanuela/](https://orcid.org/my-orcid?orcid=0009-0002-9946-187X))
+[![OrcID](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0002-9946-187X)
